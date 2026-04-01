@@ -15,22 +15,22 @@
 ## Current Holdings
 | Ticker | Shares | Avg Cost | Current Price | Value | P&L |
 |--------|--------|----------|---------------|-------|-----|
-| GLD | 0.68 | $440.00 | $440.00 | $299.20 | $0.00 |
-| XLE | 4.81 | $52.00 | $52.00 | $250.12 | $0.00 |
+| GLD | 0.721 | $416.00 | $430.29 | $310.24 | +$10.24 |
+| XLE | 4.098 | $61.00 | $59.08 | $242.07 | -$7.93 |
 
 ## Cash
-$450.68
+$450.00
 
 ## Portfolio Value
-$1,000.00
+$1,002.31
 
 ---
 
 ## Trade Log
 | Date | Action | Ticker | Shares | Price | Total | Reasoning |
 |------|--------|--------|--------|-------|-------|-----------|
-| 2026-04-01 | BUY | GLD | 0.68 | $440.00 | $299.20 | Gold +3.91% today as safe haven demand surges amid Iran conflict and NATO withdrawal talk. Clear momentum with geopolitical tailwinds. |
-| 2026-04-01 | BUY | XLE | 4.81 | $52.00 | $250.12 | Iran conflict keeps oil prices elevated; Iran denying Strait of Hormuz reopening supports energy sector even with mixed ceasefire signals. |
+| 2026-04-01 | BUY | GLD | 0.721 | $416.00 | $300.00 | Gold +3.91% today as safe haven demand surges amid Iran conflict and NATO withdrawal talk. Clear momentum with geopolitical tailwinds. |
+| 2026-04-01 | BUY | XLE | 4.098 | $61.00 | $250.00 | Iran conflict keeps oil prices elevated; Iran denying Strait of Hormuz reopening supports energy sector even with mixed ceasefire signals. |
 
 ---
 
@@ -38,7 +38,7 @@ $1,000.00
 | Date | Portfolio Value | Daily Change | Notes |
 |------|----------------|--------------|-------|
 | 2026-03-31 | $1,000.00 | — | Starting balance |
-| 2026-04-01 | $1,000.00 | 0.00% | Day 1 — Deployed $549 into GLD + XLE. Holding $450 cash. Key risks: Iran ceasefire, Trump-China outcome, JPMorgan S&P target cut to 7200. Trump address tonight at 9pm ET. |
+| 2026-04-01 | $1,002.31 | +0.23% | GLD closed $430.29 (+3.8%), XLE closed $59.08 (-3.5%). Gold thesis working; XLE hurt by Trump ceasefire signals. Net +$2.31. |
 
 ---
 
@@ -49,6 +49,6 @@ $1,000.00
 - Trump considering withdrawing US from NATO (major geopolitical shock)
 - JPMorgan lowered S&P 500 target: 7500 → 7200 (recession risk)
 - Trump-China trade meeting: Mar 31–Apr 2, trade truce extension talks
-- Gold +3.91% today to ~$4,730/oz — safe haven demand surging
+- Gold +3.91% today, GLD closed $430.29 — safe haven demand surging
+- XLE closed $59.08 (down 3.5%) — ceasefire signals weighed on energy
 - US household net worth at all-time high: $184.1T (Q4, per Bloomberg)
-- Trump address on Iran at 9pm ET tonight
