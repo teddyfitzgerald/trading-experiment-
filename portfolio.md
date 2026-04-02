@@ -15,22 +15,24 @@
 ## Current Holdings
 | Ticker | Shares | Avg Cost | Current Price | Value | P&L |
 |--------|--------|----------|---------------|-------|-----|
-| GLD | 0.721 | $416.00 | $430.29 | $310.24 | +$10.24 |
-| XLE | 4.098 | $61.00 | $59.08 | $242.07 | -$7.93 |
+| GLD | 0.721 | $416.00 | $437.82 | $315.57 | +$15.57 |
+| TLT | 2.286 | $87.49 | $87.49 | $200.00 | $0.00 |
 
 ## Cash
-$450.00
+$490.67
 
 ## Portfolio Value
-$1,002.31
+$1,006.24
 
 ---
 
 ## Trade Log
 | Date | Action | Ticker | Shares | Price | Total | Reasoning |
 |------|--------|--------|--------|-------|-------|-----------|
-| 2026-04-01 | BUY | GLD | 0.721 | $416.00 | $300.00 | Gold +3.91% today as safe haven demand surges amid Iran conflict and NATO withdrawal talk. Clear momentum with geopolitical tailwinds. |
-| 2026-04-01 | BUY | XLE | 4.098 | $61.00 | $250.00 | Iran conflict keeps oil prices elevated; Iran denying Strait of Hormuz reopening supports energy sector even with mixed ceasefire signals. |
+| 2026-04-01 | BUY | GLD | 0.721 | $416.00 | $300.00 | Gold +3.91% as safe haven demand surges amid Iran conflict and NATO withdrawal talk. |
+| 2026-04-01 | BUY | XLE | 4.098 | $61.00 | $250.00 | Iran conflict keeps oil prices elevated; Iran denying Strait of Hormuz reopening. |
+| 2026-04-02 | SELL | XLE | 4.098 | $58.71 | $240.67 | Oil +12% but XLE barely moved — weak relative strength signals recession fear overweighs oil benefit. Exit. |
+| 2026-04-02 | BUY | TLT | 2.286 | $87.49 | $200.00 | Recession fears rising (Wall Street consensus), risk-off market = bonds rally. Oil at $112 threatens stagflation/recession per BlackRock. |
 
 ---
 
@@ -38,7 +40,8 @@ $1,002.31
 | Date | Portfolio Value | Daily Change | Notes |
 |------|----------------|--------------|-------|
 | 2026-03-31 | $1,000.00 | — | Starting balance |
-| 2026-04-01 | $1,002.31 | +0.23% | GLD closed $430.29 (+3.8%), XLE closed $59.08 (-3.5%). Gold thesis working; XLE hurt by Trump ceasefire signals. Net +$2.31. |
+| 2026-04-01 | $1,002.31 | +0.23% | GLD +3.8%, XLE -3.5%. Gold thesis working; XLE hurt by ceasefire signals. |
+| 2026-04-02 | $1,006.24 | +0.39% | Sold XLE (weak vs oil surge). Bought TLT on recession fears. GLD +1.75% today. Oil at $112. |
 
 ---
 
@@ -52,3 +55,17 @@ $1,002.31
 - Gold +3.91% today, GLD closed $430.29 — safe haven demand surging
 - XLE closed $59.08 (down 3.5%) — ceasefire signals weighed on energy
 - US household net worth at all-time high: $184.1T (Q4, per Bloomberg)
+
+### 2026-04-02
+- Trump speech: more aggressive Iran action, no Strait of Hormuz reopening plan
+- Crude oil +12.26% to $112.39/barrel; Brent +8.2% to $109
+- Nasdaq futures -1.84%, S&P futures -1.46%, Dow futures -1.34% — broad risk-off selloff
+- BlackRock Fink: oil at $150 would trigger global recession
+- Wall Street raising recession risk forecasts
+- Iran ceasefire negotiator Kharazi wounded in Israeli strikes — peace less likely
+- Trump wants Japan/France/South Korea/China to guard Strait of Hormuz
+- 59% of Americans think Iran military action has gone too far
+- Oracle layoffs: 30,000 employees
+- XLE: $58.71 (barely moved despite oil surge = weak relative strength, sold)
+- GLD: $437.82 (+1.75% today, +5.2% from cost)
+- TLT: $87.49 (+1.45% from yesterday's NAV of $86.24)
