@@ -15,14 +15,13 @@
 ## Current Holdings
 | Ticker | Shares | Avg Cost | Current Price | Value | P&L |
 |--------|--------|----------|---------------|-------|-----|
-| GLD | 0.721 | $416.00 | $437.82 | $315.57 | +$15.57 |
-| TLT | 2.286 | $87.49 | $87.49 | $200.00 | $0.00 |
+| GLD | 0.721 | $416.00 | $429.41 | $309.60 | +$9.60 |
 
 ## Cash
-$490.67
+$688.14
 
 ## Portfolio Value
-$1,006.24
+$997.74
 
 ---
 
@@ -31,8 +30,9 @@ $1,006.24
 |------|--------|--------|--------|-------|-------|-----------|
 | 2026-04-01 | BUY | GLD | 0.721 | $416.00 | $300.00 | Gold +3.91% as safe haven demand surges amid Iran conflict and NATO withdrawal talk. |
 | 2026-04-01 | BUY | XLE | 4.098 | $61.00 | $250.00 | Iran conflict keeps oil prices elevated; Iran denying Strait of Hormuz reopening. |
-| 2026-04-02 | SELL | XLE | 4.098 | $58.71 | $240.67 | Oil +12% but XLE barely moved — weak relative strength signals recession fear overweighs oil benefit. Exit. |
-| 2026-04-02 | BUY | TLT | 2.286 | $87.49 | $200.00 | Recession fears rising (Wall Street consensus), risk-off market = bonds rally. Oil at $112 threatens stagflation/recession per BlackRock. |
+| 2026-04-02 | SELL | XLE | 4.098 | $58.71 | $240.67 | Oil +12% but XLE barely moved — weak relative strength signals recession fear overweighs oil benefit. |
+| 2026-04-02 | BUY | TLT | 2.286 | $87.49 | $200.00 | Recession fears rising, risk-off market = bonds rally thesis. |
+| 2026-04-06 | SELL | TLT | 2.286 | $86.38 | $197.47 | Thesis broken: strong jobs report (178k, 4.3% UE) = no Fed cuts; Treasury market under strain per FT. Long bonds wrong environment. |
 
 ---
 
@@ -41,7 +41,9 @@ $1,006.24
 |------|----------------|--------------|-------|
 | 2026-03-31 | $1,000.00 | — | Starting balance |
 | 2026-04-01 | $1,002.31 | +0.23% | GLD +3.8%, XLE -3.5%. Gold thesis working; XLE hurt by ceasefire signals. |
-| 2026-04-02 | $1,006.24 | +0.39% | Sold XLE (weak vs oil surge). Bought TLT on recession fears. GLD +1.75% today. Oil at $112. |
+| 2026-04-02 | $1,006.24 | +0.39% | Sold XLE (weak vs oil surge). Bought TLT on recession fears. GLD +1.75% today. |
+| 2026-04-03 | $1,006.24 | 0.00% | Market closed — Good Friday. |
+| 2026-04-06 | $997.74 | -0.84% | Sold TLT (jobs data killed rate-cut thesis + Treasury stress). GLD pulled back on ceasefire hopes. 69% cash ahead of Trump's Tuesday Iran deadline. |
 
 ---
 
@@ -51,21 +53,29 @@ $1,006.24
 - Trump says Iran asked for ceasefire; Iran denies; US will be "out pretty quickly"
 - Trump considering withdrawing US from NATO (major geopolitical shock)
 - JPMorgan lowered S&P 500 target: 7500 → 7200 (recession risk)
-- Trump-China trade meeting: Mar 31–Apr 2, trade truce extension talks
 - Gold +3.91% today, GLD closed $430.29 — safe haven demand surging
 - XLE closed $59.08 (down 3.5%) — ceasefire signals weighed on energy
-- US household net worth at all-time high: $184.1T (Q4, per Bloomberg)
 
 ### 2026-04-02
 - Trump speech: more aggressive Iran action, no Strait of Hormuz reopening plan
 - Crude oil +12.26% to $112.39/barrel; Brent +8.2% to $109
-- Nasdaq futures -1.84%, S&P futures -1.46%, Dow futures -1.34% — broad risk-off selloff
+- Nasdaq futures -1.84%, S&P futures -1.46%, Dow futures -1.34% — broad risk-off
 - BlackRock Fink: oil at $150 would trigger global recession
-- Wall Street raising recession risk forecasts
 - Iran ceasefire negotiator Kharazi wounded in Israeli strikes — peace less likely
-- Trump wants Japan/France/South Korea/China to guard Strait of Hormuz
-- 59% of Americans think Iran military action has gone too far
-- Oracle layoffs: 30,000 employees
-- XLE: $58.71 (barely moved despite oil surge = weak relative strength, sold)
-- GLD: $437.82 (+1.75% today, +5.2% from cost)
-- TLT: $87.49 (+1.45% from yesterday's NAV of $86.24)
+- XLE: $58.71 (sold — weak vs oil surge), GLD: $437.82, TLT: $87.49
+
+### 2026-04-03
+- Market closed for Good Friday
+- US jobs report: 178k jobs added in March, unemployment 4.3% — stronger than expected
+- 10-yr Treasury yield +3bps to 4.35% on jobs data
+
+### 2026-04-06
+- Iran ceasefire: 45-day framework discussed; Iran rejected immediate Strait reopening
+- Trump deadline: Iran must open Strait by Tuesday or face attacks on power plants/bridges
+- Oil: Brent $108.67, WTI $110.58 — slightly easing, still very elevated
+- Markets: S&P +0.12%, Nasdaq +0.42% — edging up on ceasefire hopes
+- US Treasury market "showing growing signs of strain" per FT
+- Moody's: Iran war is "a tax on US households," accelerating K-shaped economy
+- Strong jobs + Treasury stress = sold TLT
+- GLD: $429.41 (-1.9% from last close, pulled back on ceasefire hopes)
+- TLT: $86.38 (sold, -1.27% from cost)
