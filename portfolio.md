@@ -3,8 +3,9 @@
 ## Rules
 - Starting capital: $1,000
 - Daily trading decisions at 9:30am EST based on investing Twitter
-- No shorting, no leverage, no options — long-only stocks/ETFs
+- Long AND short allowed — can buy puts or short stocks with conviction
 - Max single position: 30% of portfolio
+- Stay invested — no hoarding cash, target 80%+ deployed at all times
 - Track all trades with reasoning
 
 ## Start Date: 2026-03-31
