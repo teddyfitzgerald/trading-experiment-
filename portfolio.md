@@ -14,12 +14,15 @@
 ---
 
 ## Current Holdings
-| Ticker | Shares | Avg Cost | Current Price | Value | P&L |
-|--------|--------|----------|---------------|-------|-----|
-| GLD | 0.721 | $416.00 | $431.81 | $311.34 | +$11.34 |
+| Ticker | Shares | Direction | Avg Cost | Current Price | Value | P&L |
+|--------|--------|-----------|----------|---------------|-------|-----|
+| GLD | 0.721 | LONG | $416.00 | $431.81 | $311.34 | +$11.34 |
+| QQQ | 0.510 | LONG | $588.59 | $588.59 | $300.18 | $0.00 |
+| JETS | 7.273 | LONG | $27.50 | $27.50 | $200.01 | $0.00 |
+| XLE | 2.495 | SHORT | $60.16 | $60.16 | $150.10 | $0.00 |
 
 ## Cash
-$679.64
+$179.35 (+ $150.10 short collateral held)
 
 ## Portfolio Value
 $990.98
@@ -29,13 +32,16 @@ $990.98
 ## Trade Log
 | Date | Action | Ticker | Shares | Price | Total | Reasoning |
 |------|--------|--------|--------|-------|-------|-----------|
-| 2026-04-01 | BUY | GLD | 0.721 | $416.00 | $300.00 | Gold +3.91% as safe haven demand surges amid Iran conflict and NATO withdrawal talk. |
-| 2026-04-01 | BUY | XLE | 4.098 | $61.00 | $250.00 | Iran conflict keeps oil prices elevated; Iran denying Strait of Hormuz reopening. |
-| 2026-04-02 | SELL | XLE | 4.098 | $58.71 | $240.67 | Oil +12% but XLE barely moved — weak relative strength, recession fear overweighs oil benefit. |
-| 2026-04-02 | BUY | TLT | 2.286 | $87.49 | $200.00 | Recession fears rising, risk-off market = bonds rally thesis. |
-| 2026-04-06 | SELL | TLT | 2.286 | $86.38 | $197.47 | Thesis broken: strong jobs report = no Fed cuts; Treasury market under strain. |
-| 2026-04-07 | BUY | XOM | 0.919 | $163.26 | $150.03 | Kharg Island struck, WTI at $116 — direct oil infrastructure destruction play. |
-| 2026-04-08 | SELL | XOM | 0.919 | $154.00 | $141.53 | Ceasefire announced overnight — oil -18%, energy stocks crushed. Thesis destroyed. |
+| 2026-04-01 | BUY | GLD | 0.721 | $416.00 | $300.00 | Gold safe haven — Iran conflict + NATO withdrawal risk. |
+| 2026-04-01 | BUY | XLE | 4.098 | $61.00 | $250.00 | Iran war keeping oil elevated. |
+| 2026-04-02 | SELL | XLE | 4.098 | $58.71 | $240.67 | Oil +12% but XLE flat — weak relative strength, cut. |
+| 2026-04-02 | BUY | TLT | 2.286 | $87.49 | $200.00 | Recession fears + risk-off = bonds thesis. |
+| 2026-04-06 | SELL | TLT | 2.286 | $86.38 | $197.47 | Strong jobs report killed rate-cut thesis. |
+| 2026-04-07 | BUY | XOM | 0.919 | $163.26 | $150.03 | Kharg Island struck, WTI $116 — direct oil play. |
+| 2026-04-08 | SELL | XOM | 0.919 | $154.00 | $141.53 | Ceasefire overnight — oil -18%, energy stocks crushed. |
+| 2026-04-08 | BUY | QQQ | 0.510 | $588.59 | $300.18 | Ceasefire = risk-on; Fed cut odds 43%; tech is the play. |
+| 2026-04-08 | BUY | JETS | 7.273 | $27.50 | $200.01 | Airlines' biggest cost (oil) just fell 18% — direct margin windfall. |
+| 2026-04-08 | SHORT | XLE | 2.495 | $60.16 | $150.10 | Oil normalizing from $116 war peak toward pre-war $67 — XLE still overpriced at $60. |
 
 ---
 
@@ -46,32 +52,21 @@ $990.98
 | 2026-04-01 | $1,002.31 | +0.23% | GLD +3.8%, XLE -3.5%. |
 | 2026-04-02 | $1,006.24 | +0.39% | Sold XLE, bought TLT. GLD +1.75%. |
 | 2026-04-03 | $1,006.24 | 0.00% | Market closed — Good Friday. |
-| 2026-04-06 | $997.74 | -0.84% | Sold TLT (jobs data/Treasury stress). GLD pulled back on ceasefire hopes. |
-| 2026-04-07 | $996.48 | -0.13% | Bought XOM on Kharg Island strike. Holding cash for 8pm deadline. |
-| 2026-04-08 | $990.98 | -0.55% | Sold XOM (-$8.50) — ceasefire killed oil trade. GLD +$4.16 today (Fed cut odds rising). No new buys — didn't chase 3.5% Nasdaq rally. |
+| 2026-04-06 | $997.74 | -0.84% | Sold TLT. GLD pulled back on ceasefire hopes. |
+| 2026-04-07 | $996.48 | -0.13% | Bought XOM on Kharg Island strike. |
+| 2026-04-08 | $990.98 | -0.55% | NEW RULES — sold XOM, redeployed into QQQ/JETS/SHORT XLE. Now 82% deployed. |
 
 ---
 
 ## Market Context Log
-### 2026-04-07
-- Kharg Island (Iran's primary oil export terminal) struck by US forces
-- Iran threatening to "target US and partners' infrastructure"
-- Trump: "a whole civilization will die tonight" — 8pm ET deadline
-- Bank of France repatriated gold from NYC to Paris — central bank gold hoarding
-- WTI $116 (+3.3%), Brent $111+, S&P futures -0.7%
-- GLD: $427.65, XOM: $163.26 (bought)
-
-### 2026-04-08
-- 2-week ceasefire announced after Pakistan PM plea swayed both sides
+### 2026-04-08 — CEASEFIRE DAY / NEW RULES
+- 2-week ceasefire: Pakistan PM plea swayed Trump + Iran to pause
 - Iran agreed to temporarily open Strait of Hormuz
-- Oil plunged: WTI -18% to $92, Brent -17% to $91
+- Oil: WTI -18% to $92 (from $116), Brent -17% to $91 (pre-war was $67)
 - Dow +2.93%, S&P +2.56%, Nasdaq +3.46% — massive relief rally
-- Fed rate cut odds jumped: 14% → 43% (lower oil = less inflation = Fed can cut)
-- Oil stocks "having a red, red day" per unusual_whales
-- Airline/cruise stocks surging on lower fuel costs
-- Iran demanding crypto tolls for tankers through Strait (unusual/destabilizing)
-- Hezbollah strikes on Lebanon command centers — conflict expanding
-- 50% tariffs on countries supplying weapons to Iran (Trump escalating sanctions)
-- XOM sold at $154 (-5.7% from cost of $163.26) — wrong timing, bad trade
-- GLD: $431.81 (+$4.16 today) — gold resilient, helped by Fed cut expectations
-- QQQ: $588.59 — didn't chase rally after +3.46% day
+- Fed rate cut odds: 14% → 43% (lower oil = less inflation)
+- Airlines/cruise stocks surging; oil stocks crushed
+- Iran demanding crypto tolls for tankers — unusual/destabilizing
+- Hezbollah strikes in Lebanon — conflict expanding geographically
+- NEW RULES: shorts allowed, no cash hoarding, 80%+ deployed
+- QQQ: $588.59 | JETS: ~$27.50 | XLE: $60.16 (shorted) | GLD: $431.81
