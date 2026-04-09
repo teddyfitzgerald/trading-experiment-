@@ -16,16 +16,16 @@
 ## Current Holdings
 | Ticker | Shares | Direction | Avg Cost | Current Price | Value | P&L |
 |--------|--------|-----------|----------|---------------|-------|-----|
-| GLD | 0.721 | LONG | $416.00 | $431.81 | $311.34 | +$11.34 |
-| QQQ | 0.510 | LONG | $588.59 | $588.59 | $300.18 | $0.00 |
-| JETS | 7.273 | LONG | $27.50 | $27.50 | $200.01 | $0.00 |
-| XLE | 2.495 | SHORT | $60.16 | $60.16 | $150.10 | $0.00 |
+| GLD | 0.721 | LONG | $416.00 | $440.00 | $317.24 | +$17.24 |
+| QQQ | 0.510 | LONG | $588.59 | $606.09 | $309.11 | +$8.93 |
+| GDX | 2.000 | LONG | $100.00 | $100.00 | $200.00 | $0.00 |
+| XLE | 2.495 | SHORT | $60.16 | $60.00 | +$0.40 | +$0.40 |
 
 ## Cash
-$179.35 (+ $150.10 short collateral held)
+$172.08 (+ $150.10 short collateral held, - $149.70 XLE short liability)
 
 ## Portfolio Value
-$990.98
+$998.83
 
 ---
 
@@ -41,7 +41,9 @@ $990.98
 | 2026-04-08 | SELL | XOM | 0.919 | $154.00 | $141.53 | Ceasefire overnight — oil -18%, energy stocks crushed. |
 | 2026-04-08 | BUY | QQQ | 0.510 | $588.59 | $300.18 | Ceasefire = risk-on; Fed cut odds 43%; tech is the play. |
 | 2026-04-08 | BUY | JETS | 7.273 | $27.50 | $200.01 | Airlines' biggest cost (oil) just fell 18% — direct margin windfall. |
-| 2026-04-08 | SHORT | XLE | 2.495 | $60.16 | $150.10 | Oil normalizing from $116 war peak toward pre-war $67 — XLE still overpriced at $60. |
+| 2026-04-08 | SHORT | XLE | 2.495 | $60.16 | $150.10 | Oil normalizing from $116 war peak toward pre-war $67. |
+| 2026-04-09 | SELL | JETS | 7.273 | $26.50 | $192.73 | Ceasefire fracturing — oil rebounded $91→$98 overnight. Airline thesis dying. |
+| 2026-04-09 | BUY | GDX | 2.000 | $100.00 | $200.00 | Gold surging to $4,803 (+2% today). Miners move 2-3x gold — amplified upside. |
 
 ---
 
@@ -54,19 +56,22 @@ $990.98
 | 2026-04-03 | $1,006.24 | 0.00% | Market closed — Good Friday. |
 | 2026-04-06 | $997.74 | -0.84% | Sold TLT. GLD pulled back on ceasefire hopes. |
 | 2026-04-07 | $996.48 | -0.13% | Bought XOM on Kharg Island strike. |
-| 2026-04-08 | $990.98 | -0.55% | NEW RULES — sold XOM, redeployed into QQQ/JETS/SHORT XLE. Now 82% deployed. |
+| 2026-04-08 | $990.98 | -0.55% | Sold XOM. Redeployed: QQQ + JETS + SHORT XLE. 82% deployed. |
+| 2026-04-09 | $998.83 | +0.79% | Sold JETS (oil rebounding). Bought GDX (gold miners). QQQ +2.97%, GLD +1.9%. |
 
 ---
 
 ## Market Context Log
-### 2026-04-08 — CEASEFIRE DAY / NEW RULES
-- 2-week ceasefire: Pakistan PM plea swayed Trump + Iran to pause
-- Iran agreed to temporarily open Strait of Hormuz
-- Oil: WTI -18% to $92 (from $116), Brent -17% to $91 (pre-war was $67)
-- Dow +2.93%, S&P +2.56%, Nasdaq +3.46% — massive relief rally
-- Fed rate cut odds: 14% → 43% (lower oil = less inflation)
-- Airlines/cruise stocks surging; oil stocks crushed
-- Iran demanding crypto tolls for tankers — unusual/destabilizing
-- Hezbollah strikes in Lebanon — conflict expanding geographically
-- NEW RULES: shorts allowed, no cash hoarding, 80%+ deployed
-- QQQ: $588.59 | JETS: ~$27.50 | XLE: $60.16 (shorted) | GLD: $431.81
+### 2026-04-09
+- Ceasefire fracturing — both sides accusing each other of breaches
+- Strait of Hormuz still "effectively closed" per market reports
+- Oil rebounded: Brent back to $98 (from $91 yesterday, down from $116 war peak)
+- US equity futures -0.4% — risk-off returning
+- Gold surged 2% to $4,803 — safe haven demand back on ceasefire doubts
+- GDX (gold miners) closed $98.18 yesterday, up ~5% today with gold
+- QQQ: $606.09 (+2.97% from entry) — ceasefire rally holding in tech
+- 80% chance US-Iran diplomatic meeting by April 15 (Polymarket)
+- Iranian army: "finger on the trigger" — threatening language
+- White House declared "Operation Epic Fury" military objectives achieved in 38 days
+- Huge SPY calls bought BEFORE ceasefire news — suspicious insider activity flagged by unusual_whales
+- XLE short: oil rebounding = short slightly squeezed; still holding for normalization toward pre-war $67
