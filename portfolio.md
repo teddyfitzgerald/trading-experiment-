@@ -16,16 +16,16 @@
 ## Current Holdings
 | Ticker | Shares | Direction | Avg Cost | Current Price | Value | P&L |
 |--------|--------|-----------|----------|---------------|-------|-----|
-| GLD | 0.721 | LONG | $416.00 | $437.91 | $315.73 | +$15.73 |
-| QQQ | 0.510 | LONG | $588.59 | $618.00 | $315.18 | +$15.00 |
-| GDX | 3.000 | LONG | $100.33 | $101.00 | $303.00 | +$2.00 |
-| XLE | 2.495 | SHORT | $60.16 | $61.00 | -$2.09 | -$2.09 |
+| GLD | 0.721 | LONG | $416.00 | $437.13 | $315.17 | +$15.23 |
+| QQQ | 0.510 | LONG | $588.59 | $610.68 | $311.45 | +$11.27 |
+| GDX | 3.000 | LONG | $100.33 | $99.39 | $298.17 | -$2.82 |
+| XLE | 2.495 | SHORT | $60.16 | $56.94 | +$8.03 | +$8.03 |
 
 ## Cash
-$72.08 (+ $150.10 short collateral, - $152.20 XLE short liability)
+$72.08 (+ $150.10 short collateral, - $142.07 XLE short liability)
 
 ## Portfolio Value
-$1,004.70
+$1,004.90
 
 ---
 
@@ -60,10 +60,22 @@ $1,004.70
 | 2026-04-08 | $990.98 | -0.55% | Sold XOM. Redeployed: QQQ + JETS + SHORT XLE. |
 | 2026-04-09 | $998.83 | +0.79% | Sold JETS, bought GDX. QQQ +2.97%, GLD +1.9%. |
 | 2026-04-10 | $1,004.70 | +0.59% | Added GDX. CPI beat = rate cut signal. QQQ +1.97%, GLD +0.78%. XLE short -$2 drag. |
+| 2026-04-13 | $1,004.90 | +0.02% | HOLD ALL. Vance talks failed April 12. Iran blockade threat. QQQ -1.2%, GDX -1.6%, XLE short +$8.03 profit. |
 
 ---
 
 ## Market Context Log
+### 2026-04-13
+- **TALKS FAILED:** Vance-Iran Islamabad meeting ended April 12 without deal — ceasefire probability 41% by April 21 (Polymarket, down from 90%)
+- US considering new Iran strikes + Navy blockade of Strait of Hormuz
+- Oil WTI at $104 — elevated on renewed conflict risk
+- XLE at $56.94 — energy stocks still falling despite $104 oil (market pricing recession/sector shift)
+- XLE SHORT: +$8.03 profit — thesis working, holding
+- GLD flat at $437.13 — consolidating near highs on geopolitical uncertainty
+- GDX slightly weak at $99.39 — miners lagging gold short-term
+- QQQ -1.2% to $610.68 — tech weakness on risk-off sentiment
+- Decision: HOLD ALL. No new trades. Positions at 30% cap — no room to add without breaching limits.
+
 ### 2026-04-10
 - **CPI BEAT:** YoY 3.3% (est 3.4%), Core CPI M/M 0.2% (est 0.3%) — below forecast = rate cuts back on table
 - Diplomatic meeting probability: 90% by April 15 (Polymarket, up from 80%)
