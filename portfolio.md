@@ -16,16 +16,16 @@
 ## Current Holdings
 | Ticker | Shares | Direction | Avg Cost | Current Price | Value | P&L |
 |--------|--------|-----------|----------|---------------|-------|-----|
-| GLD | 0.721 | LONG | $416.00 | $437.13 | $315.17 | +$15.23 |
-| QQQ | 0.510 | LONG | $588.59 | $610.68 | $311.45 | +$11.27 |
-| GDX | 3.000 | LONG | $100.33 | $99.39 | $298.17 | -$2.82 |
+| GLD | 0.721 | LONG | $416.00 | $435.36 | $313.89 | +$13.93 |
+| QQQ | 0.510 | LONG | $588.59 | $611.07 | $311.65 | +$11.46 |
+| TLT | 3.470 | LONG | $86.49 | $86.49 | $300.12 | $0.00 |
 | XLE | 2.495 | SHORT | $60.16 | $56.94 | +$8.03 | +$8.03 |
 
 ## Cash
-$72.08 (+ $150.10 short collateral, - $142.07 XLE short liability)
+$68.12 (+ $150.10 short collateral, - $142.07 XLE short liability)
 
 ## Portfolio Value
-$1,004.90
+$1,001.81
 
 ---
 
@@ -45,6 +45,8 @@ $1,004.90
 | 2026-04-09 | SELL | JETS | 7.273 | $26.50 | $192.73 | Ceasefire fracturing, oil bouncing to $98. |
 | 2026-04-09 | BUY | GDX | 2.000 | $100.00 | $200.00 | Gold surging to $4,803, miners = amplified upside. |
 | 2026-04-10 | BUY | GDX | 1.000 | $101.00 | $101.00 | CPI 3.3% (beat 3.4% est) + core 0.2% (beat 0.3%) = rate cuts coming. Gold miners have more room. |
+| 2026-04-14 | SELL | GDX | 3.000 | $98.72 | $296.16 | Miners lagging gold 3 straight days. Iran deal optimism could pull gold lower; rotate to better thesis. |
+| 2026-04-14 | BUY | TLT | 3.470 | $86.49 | $300.12 | Deal thesis: oil falls → inflation eases → Fed cuts → long bonds rally. TLT near prior sell price ($86.38). |
 
 ---
 
@@ -60,11 +62,24 @@ $1,004.90
 | 2026-04-08 | $990.98 | -0.55% | Sold XOM. Redeployed: QQQ + JETS + SHORT XLE. |
 | 2026-04-09 | $998.83 | +0.79% | Sold JETS, bought GDX. QQQ +2.97%, GLD +1.9%. |
 | 2026-04-10 | $1,004.70 | +0.59% | Added GDX. CPI beat = rate cut signal. QQQ +1.97%, GLD +0.78%. XLE short -$2 drag. |
-| 2026-04-13 | $1,004.90 | +0.02% | HOLD ALL. Vance talks failed April 12. Iran blockade threat. QQQ -1.2%, GDX -1.6%, XLE short +$8.03 profit. |
+| 2026-04-13 | $1,004.90 | +0.02% | HOLD ALL. Vance talks failed April 12. Iran blockade threat. XLE short +$8.03 profit. |
+| 2026-04-14 | $1,001.81 | -0.31% | Sold GDX (-$4.83 realized), bought TLT. Iran talks back on (Trump: Iranians reached out). JPM beat earnings but stock -1%. |
 
 ---
 
 ## Market Context Log
+### 2026-04-14
+- **IRAN TALKS BACK ON:** Trump says Iranian officials reached out + want to talk. Polymarket ceasefire odds reversing back up.
+- Asia surged: Nikkei +2.5%, KOSPI +3.7%, broad risk-on open
+- Oil retreating on deal hopes — WTI from $104 toward $98-100 range
+- GLD: $435.36 (slightly soft as safe-haven bid eases)
+- GDX: $98.72 — miners lagging gold 3rd straight session → SOLD (realized -$4.83)
+- QQQ: $611.07 (Nasdaq +0.93%) — earnings season kicking off
+- JPM Q1: EPS $5.94 vs $5.44 est, Revenue $49.8B vs $49.0B est (beat) — stock -1% (sell the news, didn't buy)
+- GS: Record equities revenue, FICC -10% (mixed)
+- TLT: $86.49 — re-entered; deal thesis: oil down → CPI drops → rate cuts → long bond rally
+- XLE SHORT: $56.94, +$8.03 profit — holding; if deal happens, oil crashes, XLE falls more
+
 ### 2026-04-13
 - **TALKS FAILED:** Vance-Iran Islamabad meeting ended April 12 without deal — ceasefire probability 41% by April 21 (Polymarket, down from 90%)
 - US considering new Iran strikes + Navy blockade of Strait of Hormuz
