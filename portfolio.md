@@ -16,16 +16,16 @@
 ## Current Holdings
 | Ticker | Shares | Direction | Avg Cost | Current Price | Value | P&L |
 |--------|--------|-----------|----------|---------------|-------|-----|
-| GLD | 0.721 | LONG | $416.00 | $435.36 | $313.89 | +$13.93 |
-| QQQ | 0.510 | LONG | $588.59 | $611.07 | $311.65 | +$11.46 |
-| TLT | 3.470 | LONG | $86.49 | $86.49 | $300.12 | $0.00 |
-| XLE | 2.495 | SHORT | $60.16 | $56.94 | +$8.03 | +$8.03 |
+| GLD | 0.721 | LONG | $416.00 | $445.09 | $320.91 | +$20.97 |
+| QQQ | 0.510 | LONG | $588.59 | $628.60 | $320.59 | +$20.41 |
+| TLT | 3.470 | LONG | $86.49 | $86.81 | $301.23 | +$1.11 |
+| XLE | 2.495 | SHORT | $60.16 | $56.08 | +$10.18 | +$10.18 |
 
 ## Cash
-$68.12 (+ $150.10 short collateral, - $142.07 XLE short liability)
+$68.12 (+ $150.10 short collateral, - $139.92 XLE short liability)
 
 ## Portfolio Value
-$1,001.81
+$1,021.03
 
 ---
 
@@ -63,11 +63,22 @@ $1,001.81
 | 2026-04-09 | $998.83 | +0.79% | Sold JETS, bought GDX. QQQ +2.97%, GLD +1.9%. |
 | 2026-04-10 | $1,004.70 | +0.59% | Added GDX. CPI beat = rate cut signal. QQQ +1.97%, GLD +0.78%. XLE short -$2 drag. |
 | 2026-04-13 | $1,004.90 | +0.02% | HOLD ALL. Vance talks failed April 12. Iran blockade threat. XLE short +$8.03 profit. |
-| 2026-04-14 | $1,001.81 | -0.31% | Sold GDX (-$4.83 realized), bought TLT. Iran talks back on (Trump: Iranians reached out). JPM beat earnings but stock -1%. |
+| 2026-04-14 | $1,001.81 | -0.31% | Sold GDX (-$4.83 realized), bought TLT. Iran talks back on (Trump: Iranians reached out). JPM beat earnings. |
+| 2026-04-15 | $1,021.03 | +1.92% | HOLD ALL. GLD +$20.97, QQQ +$20.41, XLE short +$10.18. Oil below $90. Nasdaq near records. |
 
 ---
 
 ## Market Context Log
+### 2026-04-15
+- **OIL BELOW $90:** WTI retreated sharply from $104 on Iran deal optimism — second round of talks being scheduled
+- **GOLD SURGING:** GLD at $445.09 (+$9.73) — gold rising on dollar weakness (oil down = lower inflation expectations = weaker USD = gold up)
+- S&P 500 +1.18%, Nasdaq +1.96% on April 14 — risk-on across the board
+- QQQ at $628.60 — approaching record highs
+- TLT: $86.81 — barely moved; Fed pricing only 30% chance of cut this year (too hawkish still)
+- XLE: $56.08 — energy sector declining with oil; SHORT +$10.18 and building
+- Earnings season: JPM, GS, J&J all beat. Tech earnings next week (key risk event for QQQ)
+- Decision: HOLD ALL — everything working, don't over-trade a good setup
+
 ### 2026-04-14
 - **IRAN TALKS BACK ON:** Trump says Iranian officials reached out + want to talk. Polymarket ceasefire odds reversing back up.
 - Asia surged: Nikkei +2.5%, KOSPI +3.7%, broad risk-on open
@@ -97,6 +108,5 @@ $1,001.81
 - Strait of Hormuz still not fully open — ship traffic not increased per reports
 - Oil hovering ~$100 — ceasefire shaky but diplomatic progress
 - Vance: if Iran lets talks fail over Lebanon, "that would be dumb"
-- Suspicious options flow before ceasefire news being investigated (unusual_whales)
 - GLD: $437.91 | QQQ: ~$618 | GDX: ~$101 | XLE: ~$61 (short slightly squeezed)
 - Holding SHORT XLE — 90% diplomatic meeting = oil normalization thesis intact
