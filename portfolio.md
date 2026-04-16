@@ -16,16 +16,16 @@
 ## Current Holdings
 | Ticker | Shares | Direction | Avg Cost | Current Price | Value | P&L |
 |--------|--------|-----------|----------|---------------|-------|-----|
-| GLD | 0.721 | LONG | $416.00 | $445.09 | $320.91 | +$20.97 |
-| QQQ | 0.510 | LONG | $588.59 | $628.60 | $320.59 | +$20.41 |
-| TLT | 3.470 | LONG | $86.49 | $86.81 | $301.23 | +$1.11 |
-| XLE | 2.495 | SHORT | $60.16 | $56.08 | +$10.18 | +$10.18 |
+| GLD | 0.721 | LONG | $416.00 | $443.00 | $319.40 | +$19.46 |
+| QQQ | 0.510 | LONG | $588.59 | $643.00 | $327.93 | +$27.74 |
+| TLT | 3.470 | LONG | $86.49 | $87.30 | $302.93 | +$2.81 |
+| XLE | 2.495 | SHORT | $60.16 | $55.80 | +$10.88 | +$10.88 |
 
 ## Cash
-$68.12 (+ $150.10 short collateral, - $139.92 XLE short liability)
+$68.12 (+ $150.10 short collateral, - $139.22 XLE short liability)
 
 ## Portfolio Value
-$1,021.03
+$1,029.26
 
 ---
 
@@ -63,50 +63,45 @@ $1,021.03
 | 2026-04-09 | $998.83 | +0.79% | Sold JETS, bought GDX. QQQ +2.97%, GLD +1.9%. |
 | 2026-04-10 | $1,004.70 | +0.59% | Added GDX. CPI beat = rate cut signal. QQQ +1.97%, GLD +0.78%. XLE short -$2 drag. |
 | 2026-04-13 | $1,004.90 | +0.02% | HOLD ALL. Vance talks failed April 12. Iran blockade threat. XLE short +$8.03 profit. |
-| 2026-04-14 | $1,001.81 | -0.31% | Sold GDX (-$4.83 realized), bought TLT. Iran talks back on (Trump: Iranians reached out). JPM beat earnings. |
+| 2026-04-14 | $1,001.81 | -0.31% | Sold GDX (-$4.83 realized), bought TLT. Iran talks back on (Trump: Iranians reached out). |
 | 2026-04-15 | $1,021.03 | +1.92% | HOLD ALL. GLD +$20.97, QQQ +$20.41, XLE short +$10.18. Oil below $90. Nasdaq near records. |
+| 2026-04-16 | $1,029.26 | +0.81% | HOLD ALL. S&P above 7,000 record. Tesla +7%, Broadcom +3%, Meta +2% on AI chips. War discount erased. |
 
 ---
 
 ## Market Context Log
+### 2026-04-16
+- **RECORD HIGHS:** S&P 500 above 7,000, Nasdaq longest winning streak in 5 years
+- **AI SURGE:** Tesla +7% (AI5 chip + software update), Broadcom +3% (Meta 1GW AI chip deal), Meta +2%
+- Trump: Iran war "very close to over" — second round of Islamabad talks being prepared
+- War discount fully erased per Motley Fool analysis
+- Oil slightly recovering from $91 low — mild tailwind risk for XLE short
+- GLD: ~$443, slightly softer as safe-haven bid fades with deal near
+- QQQ: ~$643 — AI rally driving Nasdaq to new ATH territory
+- TLT: ~$87.30 — steady, rate cut bets slowly building
+- XLE SHORT: $55.80, +$10.88 profit — holding through oil partial recovery
+- Decision: HOLD ALL — everything working, don't over-trade record-high environment
+
 ### 2026-04-15
 - **OIL BELOW $90:** WTI retreated sharply from $104 on Iran deal optimism — second round of talks being scheduled
-- **GOLD SURGING:** GLD at $445.09 (+$9.73) — gold rising on dollar weakness (oil down = lower inflation expectations = weaker USD = gold up)
+- **GOLD SURGING:** GLD at $445.09 (+$9.73) — gold rising on dollar weakness
 - S&P 500 +1.18%, Nasdaq +1.96% on April 14 — risk-on across the board
-- QQQ at $628.60 — approaching record highs
-- TLT: $86.81 — barely moved; Fed pricing only 30% chance of cut this year (too hawkish still)
-- XLE: $56.08 — energy sector declining with oil; SHORT +$10.18 and building
+- QQQ at $628.60 → hit ATH close $637.40 on April 15
+- TLT: $86.81 — rate cut bets building slowly
+- XLE: $56.08 → $55.76 — energy sector declining with oil; SHORT +$10.18 and building
 - Earnings season: JPM, GS, J&J all beat. Tech earnings next week (key risk event for QQQ)
-- Decision: HOLD ALL — everything working, don't over-trade a good setup
 
 ### 2026-04-14
-- **IRAN TALKS BACK ON:** Trump says Iranian officials reached out + want to talk. Polymarket ceasefire odds reversing back up.
+- **IRAN TALKS BACK ON:** Trump says Iranian officials reached out + want to talk.
 - Asia surged: Nikkei +2.5%, KOSPI +3.7%, broad risk-on open
-- Oil retreating on deal hopes — WTI from $104 toward $98-100 range
-- GLD: $435.36 (slightly soft as safe-haven bid eases)
 - GDX: $98.72 — miners lagging gold 3rd straight session → SOLD (realized -$4.83)
-- QQQ: $611.07 (Nasdaq +0.93%) — earnings season kicking off
-- JPM Q1: EPS $5.94 vs $5.44 est, Revenue $49.8B vs $49.0B est (beat) — stock -1% (sell the news, didn't buy)
-- GS: Record equities revenue, FICC -10% (mixed)
-- TLT: $86.49 — re-entered; deal thesis: oil down → CPI drops → rate cuts → long bond rally
-- XLE SHORT: $56.94, +$8.03 profit — holding; if deal happens, oil crashes, XLE falls more
+- JPM Q1: EPS $5.94 vs $5.44 est (beat) — stock -1% (sell the news, didn't buy)
+- TLT re-entered at $86.49; XLE SHORT +$8.03 profit
 
 ### 2026-04-13
-- **TALKS FAILED:** Vance-Iran Islamabad meeting ended April 12 without deal — ceasefire probability 41% by April 21 (Polymarket, down from 90%)
-- US considering new Iran strikes + Navy blockade of Strait of Hormuz
-- Oil WTI at $104 — elevated on renewed conflict risk
-- XLE at $56.94 — energy stocks still falling despite $104 oil (market pricing recession/sector shift)
-- XLE SHORT: +$8.03 profit — thesis working, holding
-- GLD flat at $437.13 — consolidating near highs on geopolitical uncertainty
-- GDX slightly weak at $99.39 — miners lagging gold short-term
-- QQQ -1.2% to $610.68 — tech weakness on risk-off sentiment
-- Decision: HOLD ALL. No new trades. Positions at 30% cap — no room to add without breaching limits.
+- **TALKS FAILED:** Vance-Iran Islamabad meeting ended April 12 without deal
+- US blockade of Strait of Hormuz. Oil WTI $104. XLE SHORT +$8.03 thesis working.
 
 ### 2026-04-10
-- **CPI BEAT:** YoY 3.3% (est 3.4%), Core CPI M/M 0.2% (est 0.3%) — below forecast = rate cuts back on table
-- Diplomatic meeting probability: 90% by April 15 (Polymarket, up from 80%)
-- Strait of Hormuz still not fully open — ship traffic not increased per reports
-- Oil hovering ~$100 — ceasefire shaky but diplomatic progress
-- Vance: if Iran lets talks fail over Lebanon, "that would be dumb"
-- GLD: $437.91 | QQQ: ~$618 | GDX: ~$101 | XLE: ~$61 (short slightly squeezed)
-- Holding SHORT XLE — 90% diplomatic meeting = oil normalization thesis intact
+- **CPI BEAT:** YoY 3.3% (est 3.4%), Core CPI M/M 0.2% (est 0.3%)
+- GLD: $437.91 | QQQ: ~$618 | GDX: ~$101 | XLE: ~$61 (short squeezed slightly)
