@@ -16,16 +16,15 @@
 ## Current Holdings
 | Ticker | Shares | Direction | Avg Cost | Current Price | Value | P&L |
 |--------|--------|-----------|----------|---------------|-------|-----|
-| QQQ | 0.510 | LONG | $588.59 | $650.00 | $331.50 | +$31.32 |
-| DAL | 4.270 | LONG | $71.99 | $68.41 | $292.11 | -$15.29 |
-| TLT | 3.470 | LONG | $86.49 | $86.55 | $300.33 | +$0.21 |
-| XLE | 1.500 | SHORT | $57.00 | $56.58 | $86.13 | +$0.63 |
+| QQQ | 0.510 | LONG | $588.59 | $659.00 | $336.09 | +$36.43 |
+| TLT | 3.470 | LONG | $86.49 | $85.65 | $297.21 | -$2.92 |
+| SPY | 0.423 | LONG | $712.00 | $712.00 | $300.98 | $0.00 |
 
 ## Cash
-$2.20
+$70.16
 
 ## Portfolio Value
-$1,012.27
+$1,004.44
 
 ---
 
@@ -51,8 +50,11 @@ $1,012.27
 | 2026-04-18 | BUY | DAL | 4.270 | $71.99 | $307.40 | Airlines win: Hormuz open = oil crash = fuel costs crater. |
 | 2026-04-22 | COVER | XLE | 2.495 | $55.50 | $138.47 | Ceasefire expires tomorrow. Lock in +$11.63 before binary risk. |
 | 2026-04-22 | BUY | GLD | 0.201 | $445.00 | $89.45 | Ceasefire expiry hedge. If Vance talks fail, gold surges. |
-| 2026-04-23 | SELL | GLD | 0.201 | $435.30 | $87.50 | Ceasefire EXTENDED — safe haven hedge dead. GLD -2.2% on risk-on. Lock in -$1.95. |
-| 2026-04-23 | SHORT | XLE | 1.500 | $57.00 | $85.50 | Oil $103 unsustainable. Negotiations active. Deal closes → XLE to $50. Re-entering winning thesis. |
+| 2026-04-23 | SELL | GLD | 0.201 | $435.30 | $87.50 | Ceasefire EXTENDED — safe haven hedge dead. Lock in -$1.95. |
+| 2026-04-23 | SHORT | XLE | 1.500 | $57.00 | $85.50 | Oil $103 unsustainable. Negotiations active. Deal closes → XLE to $50. |
+| 2026-04-29 | COVER | XLE | 1.500 | $58.48 | $87.72 | Deal not coming. Oil $111. Short going wrong way. Lock in -$2.22. |
+| 2026-04-29 | SELL | DAL | 4.270 | $66.90 | $285.66 | Oil $111, Iran rejected deal. Airline thesis dead. Lock in -$21.73. |
+| 2026-04-29 | BUY | SPY | 0.423 | $712.00 | $300.98 | Last 2 days: stop fighting macro, buy the market. |
 
 ---
 
@@ -75,57 +77,40 @@ $1,012.27
 | 2026-04-17 | $1,030.81 | +0.15% | HOLD ALL. Ceasefire tenuous. Oil $94. |
 | 2026-04-18 | $1,027.20 | -0.35% | Sold GLD (+$17.37 realized), bought DAL. Hormuz reopening. |
 | 2026-04-21 | $1,025.70 | -0.15% | HOLD ALL. Hormuz re-closed. Oil $96. XLE short +$12.45. |
-| 2026-04-22 | $1,015.94 | -0.95% | Covered XLE short (+$11.63 realized). Bought GLD hedge. S&P -0.63%. Ceasefire expires tomorrow. |
-| 2026-04-23 | $1,011.76 | -0.41% | Sold GLD (-$1.95 realized). Shorted XLE @ $57. Ceasefire extended — Hormuz tensions up, oil $103. S&P -0.71%. |
-| 2026-04-24 | $1,012.27 | +0.05% | HOLD ALL. Iran FM en route to Pakistan — deal signal. Nasdaq +0.71% Intel earnings. Oil $106, XLE short +$0.63. |
+| 2026-04-22 | $1,015.94 | -0.95% | Covered XLE short (+$11.63 realized). Bought GLD hedge. S&P -0.63%. |
+| 2026-04-23 | $1,011.76 | -0.41% | Sold GLD (-$1.95). Re-shorted XLE @ $57. Oil $103. |
+| 2026-04-24 | $1,012.27 | +0.05% | HOLD ALL. Iran FM en route to Pakistan. Nasdaq +0.71%. |
+| 2026-04-25 | $1,012.33 | +0.01% | HOLD ALL. Market near records ahead of FOMC Monday. |
+| 2026-04-28 | $1,005.86 | -0.64% | HOLD ALL. OpenAI revenue miss, Nasdaq -0.9%. Oil $111. XLE short hurting. |
+| 2026-04-29 | $1,004.44 | -0.14% | Covered XLE (-$2.22), sold DAL (-$21.73). Bought SPY. Pivoting to market. |
 
 ---
 
 ## Market Context Log
+### 2026-04-29
+- Oil: Brent $111.49 — Iran rejected deal (no nuclear concessions = no deal for Trump). Hormuz stalled.
+- Fed: held rates unchanged, hawkish language. TLT fell to $85.65.
+- S&P 500 flat/down -0.15% to 7,128. Nasdaq -0.2%.
+- **PIVOT:** Abandoned deal thesis. Covered XLE short (-$2.22 realized), sold DAL (-$21.73 realized). Bought SPY 0.423 shares @ $712 — 1 day left, stop fighting macro.
+- QQQ: $659 — up $36.43 unrealized, the one position that's been right all month.
+- SPY: new position. Matching the market for the final day.
+- DAL: was -$21.73 — oil $111 made the airline thesis untenable. Should have cut earlier.
+- XLE short: was -$2.22 — re-shorted at wrong time, oil kept rising.
+- Honest assessment: over-concentrated in Iran deal macro bets. QQQ was the right trade all month.
+
+### 2026-04-28
+- OpenAI missed revenue goals — chip stocks and Nasdaq sold off 0.9%.
+- Oil: $111. Brent rising. Iran stalemate deepening.
+- Held all. Portfolio drifted down on oil/XLE short drag.
+
 ### 2026-04-24
-- **IRAN FM EN ROUTE:** Araghchi flying to Pakistan for peace talks — strongest deal signal yet
-- Oil: Brent $106 (volatile — dipped to $104 on talk hopes, then back up to $107 on Hormuz stalemate)
-- S&P 500 +0.23% to 7,124; Nasdaq +0.71% — Intel earnings +4.5% lifted tech
-- Earnings season: 81% S&P beat rate, fundamentals strong beneath the geopolitical noise
-- XLE: $56.58 — short profitable +$0.63. Market pricing in eventual deal despite oil spike.
-- DAL: $68.41 — oil at $106 is painful, but deal scenario = fuel costs crater = DAL to $80+
-- QQQ: $650 — Nasdaq rally on Intel. AI/tech earnings momentum strong.
-- TLT: $86.55 — flat. Oil/inflation keeping rate cuts on ice for now.
-- Decision: HOLD ALL. 4 trading days left (April 25, 28, 29, 30). Positioned perfectly for deal close.
+- Iran FM en route to Pakistan for peace talks — strongest deal signal yet.
+- S&P 500 +0.23% to 7,124; Nasdaq +0.71% — Intel earnings lifted tech.
+- XLE: $56.58 — short profitable +$0.63. Held all.
 
 ### 2026-04-23
-- **CEASEFIRE EXTENDED:** Trump extended indefinitely pending unified Iranian proposal — Vance/Pakistan brokering
-- Iran accusing US of ceasefire violations (naval blockade of Iranian ports) — tensions simmering
-- Oil: Brent $103 — Hormuz tensions re-escalated, Citigroup warns $110 if drags on
-- S&P 500 -0.71% to ~7,014; Nasdaq pulled back from records — geopolitical uncertainty
-- Earnings: 81% of S&P 500 reporters beating estimates — fundamentals strong beneath the noise
-- GLD: SOLD 0.201 @ $435.30 (-$1.95) — ceasefire extension killed safe haven bid, gold down 2.2%
-- XLE SHORT: Re-entered 1.500 shares @ $57.00 — oil $103 with active negotiations = unsustainable. Deal closes → XLE to $50. Previous short made $11.63, same thesis.
-- DAL: $69.00 (-$12.77 unrealized) — oil spike hurting, but deal scenario = DAL $80+. Holding.
-- QQQ: $644 — tech resilient despite macro noise. Strong earnings supporting floor.
-- TLT: $86.74 — slight uptick. Oil $103 keeps rate cuts on ice but flight-to-safety bid intact.
+- Ceasefire extended. Hormuz tensions up. Oil $103. S&P -0.71%.
+- Sold GLD (-$1.95), re-shorted XLE @ $57 on deal thesis.
 
 ### 2026-04-22
-- **CEASEFIRE EXPIRES TOMORROW:** Trump says will NOT extend without agreement — maximum pressure
-- Vance delegation in Islamabad negotiating RIGHT NOW — binary outcome: deal or military escalation
-- S&P 500 -0.63% to 7,064, Nasdaq -0.59% — risk-off on ceasefire expiry anxiety
-- Oil: $95 (up from $86 low 3 days ago) — Citigroup warns $110 if Hormuz shut another month
-- Gold at $4,790 (GLD ~$445) — flat; safe haven bid offset by dollar strength (DXY 98.47)
-- XLE SHORT: COVERED at $55.50 — locked in +$11.63 realized profit. Risk: if ceasefire expires, oil → $110, XLE → $63 = short would flip to loss
-- GLD: re-entered 0.201 shares at $445 — hedge for ceasefire failure scenario. Analysts targeting $5,000 if deal collapses.
-- DAL: $70.00 (-$8.49) — oil bounce hurting, but deal scenario = DAL to $80+
-- QQQ: $643 — Nasdaq down on uncertainty, AI/tech fundamentals still strong
-- TLT: $86.30 — oil at $95 keeping yields elevated, rate cut trade on ice
-- Decision: Covered XLE (de-risked), added GLD (hedged). 8 trading days left.
-
-### 2026-04-21
-- Hormuz re-closed over weekend. Oil $96. XLE $55.17. Trump expects deal. HOLD ALL.
-
-### 2026-04-18
-- Hormuz briefly reopened. Sold GLD (+$17.37). Bought DAL $71.99. XLE short +$12.87.
-
-### 2026-04-17
-- Ceasefire tenuous. Oil $94. TLT $87.07. XLE $56.58.
-
-### 2026-04-16
-- S&P above 7,000. Nasdaq 12-day win streak. War discount erased.
+- Covered XLE short (+$11.63 realized). Bought GLD hedge. S&P -0.63%. Ceasefire expires tomorrow.
