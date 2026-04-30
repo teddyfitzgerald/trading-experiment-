@@ -13,18 +13,22 @@
 
 ---
 
-## Current Holdings
-| Ticker | Shares | Direction | Avg Cost | Current Price | Value | P&L |
-|--------|--------|-----------|----------|---------------|-------|-----|
-| QQQ | 0.510 | LONG | $588.59 | $659.00 | $336.09 | +$36.43 |
-| TLT | 3.470 | LONG | $86.49 | $85.65 | $297.21 | -$2.92 |
-| SPY | 0.423 | LONG | $712.00 | $712.00 | $300.98 | $0.00 |
+## FINAL HOLDINGS (April 30 close)
+| Ticker | Shares | Direction | Avg Cost | Final Price | Value | P&L |
+|--------|--------|-----------|----------|-------------|-------|-----|
+| QQQ | 0.510 | LONG | $588.59 | $664.48 | $338.88 | +$38.70 |
+| TLT | 3.470 | LONG | $86.49 | $85.75 | $297.55 | -$2.57 |
+| SPY | 0.423 | LONG | $712.00 | $719.00 | $304.14 | +$2.96 |
 
 ## Cash
 $70.16
 
-## Portfolio Value
-$1,004.44
+## FINAL Portfolio Value
+$1,010.73
+
+## Total Return: +1.07%
+## S&P 500 April Return (benchmark): +8.85%
+## Underperformance vs benchmark: -7.78%
 
 ---
 
@@ -80,37 +84,40 @@ $1,004.44
 | 2026-04-22 | $1,015.94 | -0.95% | Covered XLE short (+$11.63 realized). Bought GLD hedge. S&P -0.63%. |
 | 2026-04-23 | $1,011.76 | -0.41% | Sold GLD (-$1.95). Re-shorted XLE @ $57. Oil $103. |
 | 2026-04-24 | $1,012.27 | +0.05% | HOLD ALL. Iran FM en route to Pakistan. Nasdaq +0.71%. |
-| 2026-04-25 | $1,012.33 | +0.01% | HOLD ALL. Market near records ahead of FOMC Monday. |
-| 2026-04-28 | $1,005.86 | -0.64% | HOLD ALL. OpenAI revenue miss, Nasdaq -0.9%. Oil $111. XLE short hurting. |
-| 2026-04-29 | $1,004.44 | -0.14% | Covered XLE (-$2.22), sold DAL (-$21.73). Bought SPY. Pivoting to market. |
+| 2026-04-25 | $1,012.33 | +0.01% | HOLD ALL. Market near records ahead of FOMC. |
+| 2026-04-28 | $1,005.86 | -0.64% | HOLD ALL. OpenAI revenue miss, Nasdaq -0.9%. Oil $111. |
+| 2026-04-29 | $1,004.44 | -0.14% | Covered XLE (-$2.22), sold DAL (-$21.73). Bought SPY. |
+| 2026-04-30 | $1,010.73 | +0.63% | FINAL DAY. Alphabet earnings surge. S&P +1.1%. Oil $104 (down). |
+
+---
+
+## FINAL POSTMORTEM
+
+### Result
+- **Portfolio: +1.07%** ($1,000 → $1,010.73)
+- **S&P 500 benchmark: +8.85%** (~6,620 → ~7,206)
+- **Underperformance: -7.78%**
+
+### What Worked
+- **XLE short #1 (Apr 8–22): +$11.63 realized** — best trade of the month. Shorted energy at $60.16, covered at $55.50 as ceasefire hit.
+- **GLD long (Apr 1–18): +$17.37 realized** — gold safe haven call was right during the Iran war escalation.
+- **QQQ (Apr 8–30): +$38.70 unrealized** — the one position that just kept working. Should have sized this much larger.
+
+### What Killed Performance
+- **DAL (Apr 18–29): -$21.73 realized** — the single biggest loss. Bought on Hormuz reopening thesis at $71.99. Hormuz re-closed 3 days later, oil went to $111, airline thesis collapsed. Should have cut far sooner.
+- **XLE short #2 (Apr 23–29): -$2.22 realized** — re-entered the same short at the wrong time. Oil kept climbing on Iran stalemate.
+- **Over-trading macro events** — 24 trades in 30 days chasing Iran catalysts (ceasefire, Hormuz open/closed, deal/no deal). Each trade had a reasonable thesis but execution cost ~0.5–1% in slippage and wrong-way exposure. The simple trade was just buying QQQ on April 8 and holding.
+
+### Key Lesson
+QQQ went from $588.59 to $664.48 = **+12.9%** during the experiment. If the entire $1,000 had gone into QQQ on day one, the portfolio would be at **$1,129**. Instead, splitting capital across Iran macro bets (DAL, TLT, GLD, XLE, GDX, JETS, XOM) produced +1.07%. Narrative-driven trading underperformed passive index exposure by nearly 12 points.
 
 ---
 
 ## Market Context Log
-### 2026-04-29
-- Oil: Brent $111.49 — Iran rejected deal (no nuclear concessions = no deal for Trump). Hormuz stalled.
-- Fed: held rates unchanged, hawkish language. TLT fell to $85.65.
-- S&P 500 flat/down -0.15% to 7,128. Nasdaq -0.2%.
-- **PIVOT:** Abandoned deal thesis. Covered XLE short (-$2.22 realized), sold DAL (-$21.73 realized). Bought SPY 0.423 shares @ $712 — 1 day left, stop fighting macro.
-- QQQ: $659 — up $36.43 unrealized, the one position that's been right all month.
-- SPY: new position. Matching the market for the final day.
-- DAL: was -$21.73 — oil $111 made the airline thesis untenable. Should have cut earlier.
-- XLE short: was -$2.22 — re-shorted at wrong time, oil kept rising.
-- Honest assessment: over-concentrated in Iran deal macro bets. QQQ was the right trade all month.
-
-### 2026-04-28
-- OpenAI missed revenue goals — chip stocks and Nasdaq sold off 0.9%.
-- Oil: $111. Brent rising. Iran stalemate deepening.
-- Held all. Portfolio drifted down on oil/XLE short drag.
-
-### 2026-04-24
-- Iran FM en route to Pakistan for peace talks — strongest deal signal yet.
-- S&P 500 +0.23% to 7,124; Nasdaq +0.71% — Intel earnings lifted tech.
-- XLE: $56.58 — short profitable +$0.63. Held all.
-
-### 2026-04-23
-- Ceasefire extended. Hormuz tensions up. Oil $103. S&P -0.71%.
-- Sold GLD (-$1.95), re-shorted XLE @ $57 on deal thesis.
-
-### 2026-04-22
-- Covered XLE short (+$11.63 realized). Bought GLD hedge. S&P -0.63%. Ceasefire expires tomorrow.
+### 2026-04-30 — FINAL DAY
+- Alphabet Q1 earnings massive beat — Nasdaq surged, S&P new record
+- Oil: $104.22 (down from $111 — supply relief signals from Iran stalemate cooling)
+- S&P 500 +1.1%, Nasdaq +1.0%, Dow +1.8% — broad rally
+- QQQ: $664.48 | SPY: $719 | TLT: $85.75
+- Portfolio ends at $1,010.73. Up on the day but lost to market all month.
+- Experiment ends. April 30, 2026.
